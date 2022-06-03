@@ -1,1 +1,11 @@
 
+<?xml version="1.0"?>
+<bug_report>
+<ID>1</ID>
+<Title>no check for «Описание» max length</Title>
+<severity>minor</severity>
+<Environment>Chrome</Environment>
+<Priority>low</Priority>
+<AR>250 characters max</AR>
+<ER>more than 250 Characters</ER>
+</bug_report>
